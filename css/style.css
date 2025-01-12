@@ -86,10 +86,9 @@ header{
 .blog1{
     background: url('./images/i13.jpg');
     background-size: cover;
-    color: #B20505;
     padding: 7.6em 1.5em 1.5em 1.5em;
     box-shadow: 5px 5px 10px #141414;
-
+   ;
 }
 .blog1 .rel{
    
