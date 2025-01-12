@@ -91,9 +91,14 @@ header{
 @media (min-width: 576px){
    .float{
     float: left;
-    margin-right: 1.6em;
-    margin-bottom: 0.9em;
+    margin-top: 3em;
+    margin-right: 1.5em;
 } 
+.about-head{
+    width: 100%;
+    font-size: 4rem;
+}
+
 }
 
 .float{
@@ -101,10 +106,10 @@ header{
     width: 160px;
     height: 160px;
 }
-.about-head{
-   margin: 1em 0;
-}
 
+.about-info{
+   font-size: larger;
+}
 .float:hover{
     opacity: 80%;
 }
@@ -121,6 +126,7 @@ header{
         color: #999999;
 }
 .green{
+    display: inline;
     color: #bada55;
 }
 .green:hover{

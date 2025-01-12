@@ -84,7 +84,7 @@ header{
 /* blog 1 */
 
 .blog1{
-    background: black url('images/i13.jpg');
+    background: url('images/i13.jpg');
     background-size: cover;
     background-position: 67%;
     color: #B20505;
