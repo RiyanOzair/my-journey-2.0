@@ -12,6 +12,15 @@ body
     color: #141414;
 }
 
+h1,
+h2,
+p,
+span{
+    cursor: default;
+}
+
+
+
 .container {
     width: 90%;
     max-width: 900px;
@@ -40,6 +49,7 @@ header{
     align-items: center;
     background-color: white;
     height: 12vh;
+    margin:  0.75em 0;
 }
 
 
@@ -50,8 +60,8 @@ header{
    
 }
 .logo{
-    margin: 0;
-    padding: 0.3em 0 0.3rem 1.5rem;
+    margin: 4em 0;
+    padding: 0.7em 0 0.7rem 1.5rem;
 }
 
 .logo-img{
@@ -59,6 +69,7 @@ header{
     height: 12.5vh;
     border-radius: 86%;
     box-shadow: -5px 5px 5px #505050;
+    
 }
 .logo-heading{
     font-size: 1.3rem;
@@ -84,8 +95,9 @@ header{
 /* blog 1 */
 
 .blog1{
-    background: url('./images/i13.jpg');
+    background: url('../images/i13.png');
     background-size: cover;
+    background-position: center;
     padding: 7.6em 1.5em 1.5em 1.5em;
     box-shadow: 5px 5px 10px #141414;
    ;
