@@ -56,7 +56,7 @@ header{
 
 .logo-img{
     width: 50%;
-    height: 8.5vh;
+    height: 12.5vh;
     border-radius: 86%;
     box-shadow: -5px 5px 5px #505050;
 }
@@ -84,9 +84,8 @@ header{
 /* blog 1 */
 
 .blog1{
-    background: url('images/i13.jpg');
+    background: url('./images/i13.jpg');
     background-size: cover;
-    background-position: 67%;
     color: #B20505;
     padding: 7.6em 1.5em 1.5em 1.5em;
     box-shadow: 5px 5px 10px #141414;
