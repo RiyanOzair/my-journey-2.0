@@ -66,7 +66,7 @@ header{
 
 .logo-img{
     width: 50%;
-    height: 12.5vh;
+    height: 8.5vh;
     border-radius: 86%;
     box-shadow: -5px 5px 5px #505050;
     
@@ -82,8 +82,8 @@ header{
     color: #cc0000;
 }
 .nav-link{
-    margin:0 1em;
-    font-size: 0.9rem;
+    margin:0 1.5em;
+    font-size: 0.82rem;
     text-transform: uppercase;
     font-weight: bold;
 
