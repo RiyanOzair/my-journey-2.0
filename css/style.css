@@ -96,8 +96,11 @@ header{
 
 .blog1{
     background: url('../images/i13.png');
+    background: no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
     background-size: cover;
-    background-position: center;
     padding: 7.6em 1.5em 1.5em 1.5em;
     box-shadow: 5px 5px 10px #141414;
    ;
